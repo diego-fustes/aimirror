@@ -1,0 +1,12 @@
+xml\Garment.class
+xml\Basket.class
+xml\Outfit.class
+GarmentItemItemRecommender.class
+xml\Browse.class
+xml\TryOnSessions.class
+xml\BrowsingSessions.class
+GarmentStore.class
+ReadGarments.class
+xml\TryOn.class
+xml\Garments.class
+xml\Session.class
